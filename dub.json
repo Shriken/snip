@@ -1,0 +1,9 @@
+{
+	"name": "snip",
+	"authors": [
+		"Zane Sterling"
+	],
+	"description": "A terminal utility for snipping output",
+	"copyright": "Copyright © 2016, Zane Sterling",
+	"license": "mit"
+}
